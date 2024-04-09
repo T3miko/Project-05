@@ -17,6 +17,7 @@ Patterned Carpet by 3DXo
 Free Music for Games by Rizran Ashraf from Unity Asset Store
 
 ## Future Development
+Can be fixed to make characters move more smoothly and perhaps add weapons.
 
 ## Created by
 Aiko Ileleji
